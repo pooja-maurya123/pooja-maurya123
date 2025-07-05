@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pooja Maurya
 
-<!--
-**pooja-maurya123/pooja-maurya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me:
+- 🎓 B.Tech Student at SR Institute of Management and Technology
+- 💻 Full Stack Developer | Java | Spring Boot | React | MySQL
+- 🌱 Currently learning React & advanced backend with Spring Boot
 
-Here are some ideas to get you started:
+## 🛠 Skills:
+- *Frontend:* HTML, CSS, JavaScript, React
+- *Backend:* Java, Spring Boot
+- *Database:* MySQL
+- *Tools:* Git, GitHub, VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects:
+- 📘 Student Management System (Spring Boot + MySQL)
+- 📚 Book Store App (React + Spring Boot)
+- 💼 Portfolio Website (HTML, CSS, JavaScript)
+
+## 📫 Connect with Me:
+- ✉ Email: pooja@example.com
+- 🌐 LinkedIn: [https://www.linkedin.com/in/pooja-maurya-4b9791280?utm_ ]
+
+
+
